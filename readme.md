@@ -1,7 +1,7 @@
-# Token Killer — Telegram Bot Security Assessment Tool
+# doprivar - Token Killer — Telegram Bot Security Assessment Tool
 
-**Версия:** 1.0  
-**Автор:** Senior Python Developer
+
+**Автор:** extallentt
 
 ---
 
