@@ -1,4 +1,4 @@
-# doprivar - Token Killer — Telegram Bot Security Assessment Tool
+# doprivar - Token Killer -> Telegram Bot Security Assessment Tool
 
 
 **Автор:** extallentt
